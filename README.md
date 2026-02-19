@@ -10,12 +10,22 @@
   ![XGBoost](https://img.shields.io/badge/AI-XGBoost-FF6600?style=for-the-badge)
   ![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase)
   ![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
+  [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-port--pulse--eta.vercel.app-blue?style=for-the-badge)](https://port-pulse-eta.vercel.app/)
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## 🌐 Live Demo
+
+> **[👉 https://port-pulse-eta.vercel.app/](https://port-pulse-eta.vercel.app/)**
+
+| Service | URL |
+|---------|-----|
+| 🖥️ Frontend (Vercel) | [port-pulse-eta.vercel.app](https://port-pulse-eta.vercel.app/) |
+| ⚙️ Backend API (Render) | [portpulse-backend.onrender.com](https://portpulse-backend.onrender.com) |
+
+
 
 - [About](#-about)
 - [Tech Stack](#-tech-stack)
